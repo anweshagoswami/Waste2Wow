@@ -1,3 +1,6 @@
+To run the code, clone the repository. Then in your terminal write "npm run dev". The website will be live in your localhost. Click on the vite + react link. You will see the wesite on your screen!
+Backend code and AI assistance code coming soon!
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
